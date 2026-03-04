@@ -16,6 +16,8 @@
 
 ---
 
+![Conversion rate by group](./images/conversion_rate_by_group.png)
+
 ## 2. 비즈니스 문제 정의 및 가설
 
 ### Problem Statement
