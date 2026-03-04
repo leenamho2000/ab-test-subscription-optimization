@@ -60,6 +60,8 @@
 * **$P$-value**: $0.0000$ (유의수준 $0.05$ 하에서 귀무가설 기각)
 * **해석**: 본 실험의 결과는 통계적으로 매우 견고하며, 개선안 도입 시 전환율 상승 효과를 신뢰할 수 있습니다.
 
+![Chi-Square test results](./images/chi_square_test_results.png)
+
 ---
 
 ## 5. 비즈니스 임팩트 (ROI Analysis)
