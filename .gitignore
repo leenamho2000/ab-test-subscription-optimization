@@ -1,0 +1,42 @@
+# --- Python 관련 ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- 가상환경 ---
+venv/
+ENV/
+
+# --- Jupyter Notebook 관련 ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- VS Code 관련 ---
+.vscode/
+*.code-workspace
+
+# --- 데이터 관련 (대용량 파일 방지) ---
+data/*.csv
+data/*.xlsx
+
+# --- 기타 시스템 파일 ---
+.DS_Store
+Thumbs.db
